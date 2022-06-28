@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="preto">Preto</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="amarelo">Amarelo</string>
+</resources>
